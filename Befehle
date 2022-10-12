@@ -1,0 +1,6 @@
+git status
+git add .
+git commot -m "<Kommentar>"
+git push https://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@github.com/Solly900/ABCD.git
+
+git config help ~für befehl liste von config
