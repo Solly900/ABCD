@@ -1,6 +1,6 @@
 git status
 git add .
 git commot -m "<Kommentar>"
-git push https://@github.com/Solly900/ABCD.git
+git push https://<TOKEN>@github.com/Solly900/ABCD.git
 
 git config help ~für befehl liste von config
